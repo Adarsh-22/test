@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.48987646.chunk.css",
+    "main.js": "/test/static/js/main.b4185764.chunk.js",
+    "main.js.map": "/test/static/js/main.b4185764.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.5e1b540b.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.5e1b540b.js.map",
+    "static/js/2.b5889de0.chunk.js": "/test/static/js/2.b5889de0.chunk.js",
+    "static/js/2.b5889de0.chunk.js.map": "/test/static/js/2.b5889de0.chunk.js.map",
+    "index.html": "/test/index.html",
+    "static/css/main.48987646.chunk.css.map": "/test/static/css/main.48987646.chunk.css.map",
+    "static/js/2.b5889de0.chunk.js.LICENSE.txt": "/test/static/js/2.b5889de0.chunk.js.LICENSE.txt",
+    "static/media/Video.c822d29f.png": "/test/static/media/Video.c822d29f.png",
+    "static/media/badge.d00cef8d.png": "/test/static/media/badge.d00cef8d.png",
+    "static/media/credlogo.9368ba96.png": "/test/static/media/credlogo.9368ba96.png",
+    "static/media/flipkartlogo.2e152918.png": "/test/static/media/flipkartlogo.2e152918.png",
+    "static/media/growwlogo.6325d57f.png": "/test/static/media/growwlogo.6325d57f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e1b540b.js",
+    "static/js/2.b5889de0.chunk.js",
+    "static/css/main.48987646.chunk.css",
+    "static/js/main.b4185764.chunk.js"
+  ]
+}
